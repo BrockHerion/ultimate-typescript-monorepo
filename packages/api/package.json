@@ -1,0 +1,14 @@
+{
+  "name": "@todo/api",
+  "version": "0.0.1",
+  "author": "BrockHerion",
+  "license": "MIT",
+  "private": true,
+  "files": [
+    "./src"
+  ],
+  "scripts": {},
+  "dependencies": {
+    "@trpc/server": "^9.20.1"
+  }
+}
