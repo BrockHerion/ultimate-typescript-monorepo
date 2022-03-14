@@ -1,0 +1,16 @@
+{
+	"name": "@todo/react",
+	"version": "1.0.0",
+	"private": true,
+	"scripts": {},
+	"license": "MIT",
+	"dependencies": {
+		"@todo/api": "link:../api",
+		"@trpc/next": "^9.20.1",
+		"@trpc/react": "^9.20.1",
+		"@trpc/server": "^9.20.1",
+		"server": "link:../server",
+		"superjson": "^1.8.1",
+		"zod": "^3.13.4"
+	}
+}
