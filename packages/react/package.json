@@ -5,7 +5,7 @@
 	"scripts": {},
 	"license": "MIT",
 	"dependencies": {
-		"@todo/api": "link:../api",
+		"@todo/api": "workspace:../api",
 		"@trpc/next": "^9.20.1",
 		"@trpc/react": "^9.20.1",
 		"@trpc/server": "^9.20.1",
