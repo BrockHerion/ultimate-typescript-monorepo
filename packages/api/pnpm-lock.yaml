@@ -1,0 +1,19 @@
+lockfileVersion: 5.3
+
+specifiers:
+  '@trpc/server': ^9.20.1
+
+dependencies:
+  '@trpc/server': 9.20.1
+
+packages:
+
+  /@trpc/server/9.20.1:
+    resolution: {integrity: sha512-UsuDslmzWrhkv1JZ12/fK4Z/5lSaPj5UJg23j1EE1gkH5aSkQgY5CHzvNv+jkiAR6rR4K2HDOMpVF4Tz50YE9Q==}
+    dependencies:
+      tslib: 2.3.1
+    dev: false
+
+  /tslib/2.3.1:
+    resolution: {integrity: sha512-77EbyPPpMz+FRFRuAFlWMtmgUWGe9UOG2Z25NqCwiIjRhOf5iKGuzSe5P2w1laq+FkRy4p+PCuVkJSGkzTEKVw==}
+    dev: false

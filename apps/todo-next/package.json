@@ -1,6 +1,6 @@
 {
   "name": "@todo/next",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -9,7 +9,9 @@
     "lint": "next lint"
   },
   "dependencies": {
-		"@todo/react": "workspace:^",
+    "@todo/api": "workspace:^",
+    "@todo/react": "workspace:^",
+    "@trpc/client": "^9.20.1",
     "@trpc/next": "^9.20.1",
     "@trpc/react": "^9.20.1",
     "@trpc/server": "^9.20.1",
