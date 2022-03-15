@@ -9,6 +9,7 @@
   ],
   "scripts": {},
   "dependencies": {
-    "@trpc/server": "^9.20.1"
+    "@trpc/server": "^9.20.1",
+    "superjson": "^1.8.1"
   }
 }
