@@ -1,0 +1,14 @@
+{
+	"name": "To-Do List",
+	"description": "An extension for saving your to-do's",
+  "version": "0.1",
+  "manifest_version": 3,
+  "icons": {
+    "16": "icon_16.png"
+  },
+  "permissions": ["activeTab"],
+  "action": {
+    "default_icon": "icon_16.png",
+    "default_popup": "index.html"
+  }
+}
