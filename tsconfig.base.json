@@ -8,6 +8,6 @@
     "noUnusedLocals": true,
     "skipLibCheck": true,
     "sourceMap": true,
-    "jsx": "react"
+    "jsx": "react-jsx"
   }
 }
