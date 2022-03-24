@@ -5,8 +5,9 @@
   "main": "index.js",
   "scripts": {
     "dev:next": "pnpm -C ./apps/todo-next dev",
+		"dev:express": "pnpm -C ./server dev",
     "dev:extension": "pnpm -C ./apps/todo-extension dev",
-		"dev": "run-p dev:*",
+		"dev": "run-p dev:* --print-label",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

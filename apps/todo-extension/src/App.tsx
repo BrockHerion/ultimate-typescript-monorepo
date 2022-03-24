@@ -4,7 +4,7 @@ import './App.css';
 import { trpc, transformer } from './utils/trpc';
 import ToDoList from '@todo/react/ToDoList';
 
-const localhost = 'http://localhost:3000';
+const localhost = 'http://localhost:4000';
 
 function App() {
   const [queryClient] = useState(() => new QueryClient());
